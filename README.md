@@ -13,7 +13,7 @@ Web application, Python, JavaScript, HTML/CSS, Django
 ## Project Abstract
 
 
-## High Level Requirement
+## High-Level Requirement
 
 
 ## Conceptual Design
@@ -32,13 +32,11 @@ Web application, Python, JavaScript, HTML/CSS, Django
 
 
 <div align="center">
-<img width="30%" src="![1](https://github.com/rifat123-r/TechBuddy/assets/73204434/d731f035-1036-4db1-9089-320a942b72f6)
-">
-
-# TechBuddy
+<img width="30%" src="![1](https://github.com/rifat123-r/TechBuddy/assets/73204434/bb83654a-23b3-4852-88c0-d05a9fec47b8)">
 </div>
 
-### Cloning the repository
+
+## Cloning the repository
 
 --> Clone the repository using the command below :
 ```bash
