@@ -27,15 +27,7 @@ Web application, Python, JavaScript, HTML/CSS, Django
 - HTML/CSS
 - Python
 - Django
-
-
-
-
-<div align="center">
-<img width="30%" src="![1](https://github.com/rifat123-r/TechBuddy/assets/73204434/bb83654a-23b3-4852-88c0-d05a9fec47b8)">
-</div>
-
-
+  
 ## Cloning the repository
 
 --> Clone the repository using the command below :
