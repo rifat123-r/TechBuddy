@@ -1,7 +1,6 @@
 <div align="center">
 
 # TechBuddy
-[![Documentation Website Link](https://img.shields.io/badge/-Documentation%20Website-brightgreen)](https://rifat123-r.github.io/TechBuddy/)
 
 
 </div>
